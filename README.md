@@ -1,2 +1,4 @@
-The proposed solution is an automated attendance monitoring system that uses facial recognition technology to identify students as they enter a classroom or lecture hall. This system aims to eliminate the need for manual attendance tracking, reduce errors, and streamline the process of recording student attendance.
-![image](https://github.com/AhmedSeelim/Attendance-automatic-system/assets/103804727/24385645-4ebc-4d90-9630-0a80214b9dda)
+# Attendance automatic system
+
+The proposed solution is an automated attendance monitoring system that uses facial recognition technology to identify students as they enter a classroom or lecture hall.
+This system aims to eliminate the need for manual attendance tracking, reduce errors, and streamline the process of recording student attendance.
