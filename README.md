@@ -6,7 +6,6 @@ The proposed solution is an automated attendance monitoring system that utilizes
 ## Videos and Outputs
 - **Original Video:** [Original Video](VID_20240228_112302.mp4)
 - **Output Video:** [Output Video](out.mp4)
-- **Attendance Sheet:** [Attendance Sheet](out Attendance.csv)
 
 ## System Components
 - **Face Recognition:** Uses pre-trained models to detect and recognize faces in real-time video streams.
@@ -15,18 +14,17 @@ The proposed solution is an automated attendance monitoring system that utilizes
 
 ## How to Use
 1. **Requirements:**
-   - Python (version X.X)
    - Libraries: `cmake`, `dlib`, `face_recognition`, `numpy`, `opencv-python`
 
 2. **Setup:**
    - Clone the repository.
-   - Install required libraries using `pip install -r requirements.txt`.
+   - Install required libraries .
 
 3. **Running the System:**
    - Execute `python main.py` to start the system.
    - Choose between real-time video streaming or processing a recorded video.
 
 4. **Output:**
-   - The system outputs an attendance CSV file (`out Attendance.csv`) with timestamps for each recognized student.
-   - An output video (`out.mp4`) demonstrates the detection and recognition process.
+   - The system outputs an attendance CSV file as (`out Attendance.csv`) with timestamps for each recognized student.
+   - An output video as (`out.mp4`) demonstrates the detection and recognition process.
 
